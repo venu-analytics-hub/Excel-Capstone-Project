@@ -1,4 +1,4 @@
-## 🛒 Freshco Hypermarket: Home Delivery Service Analysis
+## 🛒 Excel Capstone Project:
 
 In 2021, Freshco Hypermarket introduced a home delivery service to meet changing customer demands and improve convenience for local shoppers. This project focuses on analyzing transaction-level data to evaluate the performance of that service.
 
